@@ -52,4 +52,4 @@ Experience the excitement of the classic Fox and Hounds game with a modern twist
 
 ## Screenshot
 
-![Image](https://github.com/mduda-github/FoxAndHounds/blob/master/assets/FoxAndHounds.png)
+![Image](https://github.com/mduda-github/FoxAndHounds/blob/main/assets/FoxAndHounds.png)
