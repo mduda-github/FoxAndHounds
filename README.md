@@ -42,7 +42,7 @@ Challenge your strategic thinking and enjoy hours of fun with Fox and Hounds. Do
 
 ## Feedback and Support
 
-We welcome your feedback and are here to assist you with any questions or issues you encounter while playing Fox and Hounds. Please feel free to reach out by opening an issue on the [GitHub repository](https://github.com/mduda-github/fox_and_hounds).
+We welcome your feedback and are here to assist you with any questions or issues you encounter while playing Fox and Hounds. Please feel free to reach out by opening an issue on the [GitHub repository](https://github.com/mduda-github/FoxAndHounds).
 
 ## Author
 
